@@ -65,22 +65,19 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-<img width="1920" height="1080" alt="Screenshot 2025-11-23 201733" src="https://github.com/user-attachments/assets/7066452b-da3c-444b-ae9c-fff12646807d" />
 
+[text](DE1.qpf)
 
  Developed by:NITHISH R RegisterNumber: 25016746
  
-**Logic symbol & Truthtable**
-
-<img width="722" height="687" alt="image" src="https://github.com/user-attachments/assets/efd4c276-429d-4e14-b08e-3b4c59d71b9f" />
 
 **RTL realization Output:** 
 
-<img width="476" height="486" alt="Screenshot 2025-11-21 214620" src="https://github.com/user-attachments/assets/0cd9a6c6-ff78-46bf-aa94-18a7d98ff006" />
+![alt text](<logical diagram 1.png>)
 
 **RTL**
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-21 215318" src="https://github.com/user-attachments/assets/e739b45b-7425-4aca-bd8f-b221dd412725" />
+![alt text](<RTL waveform 1.png>)
 
 **Result:**
 
